@@ -4,6 +4,8 @@ div#bandeau {
 	width:600px;
 	height:50px;
 	background-color:rgb(143, 0, 0);
+    margin-top: 10px;
+    margin-bottom: 10px;
 	}
     div#menu {
         float:left;
@@ -17,6 +19,15 @@ div#bandeau {
             height:400px;
             background-color:rgb(63, 139, 189);
         }
+
+
+        div#contenu1 {
+            text-align:center;
+            width:600px;
+            height:80px;
+            background-color:rgb(63, 139, 189);
+        }
+
         div#menuhaut {
             text-align: center;
             width:100px;
@@ -31,14 +42,22 @@ div#bandeau {
             }
             div#blocnews {
                 float:right;
-                width:150px;
-                height:150px;
-                background-color:#FF3300;
+                width:300px;
+                height:200px;
+                background-color:#216fff;
                 }
+
+                div#blocnews2 {
+                    float:right;
+                    width:300px;
+                    height:150px;
+                    background-color:#FF3300;
+                    }
+
     div#piedpage {
         text-align:center;
 	    width:600px;
-	    height:150px;
+	    height:100px;
 	    background-color:#99ac6b;
 	    }
 
