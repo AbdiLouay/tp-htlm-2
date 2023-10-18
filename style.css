@@ -3,7 +3,7 @@ div#bandeau {
     text-align:center;
 	width:600px;
 	height:50px;
-	background-color:rgb(143, 0, 0);
+	background-color:#A6292A;
     margin-top: 10px;
     margin-bottom: 10px;
 	}
@@ -14,6 +14,11 @@ div#bandeau {
         background-color:#FF6699;
         }
         div#contenu {
+            border: 0px;
+            margin-bottom: 0%;
+            margin-top: 0%;
+            padding-bottom: 0%;
+            padding-top: 0%;
             text-align:center;
             width:600px;
             height:400px;
@@ -22,53 +27,48 @@ div#bandeau {
 
 
         div#contenu1 {
-            text-align:center;
+            border: 0px;
+            margin-bottom: 0%;
+            margin-top: 0%;
+            padding-bottom: 0%;
+            padding-top: 0%;
             width:600px;
-            height:80px;
+            height:100px;
             background-color:rgb(63, 139, 189);
         }
 
-        div#menuhaut {
-            text-align: center;
-            width:100px;
-            height:200px;
-            background-color:#66CC33;
-            }
-        div#menubas {
-            text-align: center;
-            width:100px;
-            height:200px;
-            background-color:#CC99CC;
-            }
             div#blocnews {
+                border: 0px;
+                margin-bottom: 0%;
+                margin-top: 0%;
+                padding-bottom: 0%;
+                padding-top: 0%;
                 float:right;
                 width:300px;
                 height:200px;
-                background-color:#216fff;
+                background-color:#2677A5;
                 }
 
                 div#blocnews2 {
+                    border: 0px;
+                    margin-bottom: 0%;
+                    margin-top: 0%;
+                    padding-bottom: 0%;
+                    padding-top: 0%;
                     float:right;
                     width:300px;
                     height:150px;
-                    background-color:#FF3300;
+                    background-color:#47E187;
                     }
 
     div#piedpage {
         text-align:center;
 	    width:600px;
 	    height:100px;
-	    background-color:#99ac6b;
+	    background-color:#BDB76B;
 	    }
 
         .t{
-    font-size: 20px;
-    color: rgb(17, 0, 255);
         margin-top: 0px;
+        margin-bottom: 0px;
         }
-        .t2{
-            font-size: 30px;
-            color: rgb(255, 0, 0);
-                padding-top: 5px;
-                margin-top: 0px; 
-            }
